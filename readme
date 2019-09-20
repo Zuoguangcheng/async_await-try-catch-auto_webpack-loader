@@ -1,1 +1,4 @@
-init
+webpack-loader
+
+解决 代码中async await 需要加try catch 的问题， 使用该loader，则不需要在代码中手动编写 await 的try-catch
+
